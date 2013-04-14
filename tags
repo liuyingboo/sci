@@ -1,0 +1,761 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ACLOCAL	Makefile	/^ACLOCAL = ${SHELL} \/home\/lyb\/hybwps\/soeyes\/missing --run aclocal-1.11$/;"	m
+ACLOCAL	src/Makefile	/^ACLOCAL = ${SHELL} \/home\/lyb\/hybwps\/soeyes\/missing --run aclocal-1.11$/;"	m
+ACLOCAL	src/consist/Makefile	/^ACLOCAL = ${SHELL} \/home\/lyb\/hybwps\/soeyes\/missing --run aclocal-1.11$/;"	m
+ACLOCAL	src/index/Makefile	/^ACLOCAL = ${SHELL} \/home\/lyb\/hybwps\/soeyes\/missing --run aclocal-1.11$/;"	m
+ACLOCAL	src/lfufs/Makefile	/^ACLOCAL = ${SHELL} \/home\/lyb\/hybwps\/soeyes\/missing --run aclocal-1.11$/;"	m
+ACLOCAL_M4	Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ACLOCAL_M4	src/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ACLOCAL_M4	src/consist/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ACLOCAL_M4	src/index/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ACLOCAL_M4	src/lfufs/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+AMTAR	Makefile	/^AMTAR = $${TAR-tar}$/;"	m
+AMTAR	src/Makefile	/^AMTAR = $${TAR-tar}$/;"	m
+AMTAR	src/consist/Makefile	/^AMTAR = $${TAR-tar}$/;"	m
+AMTAR	src/index/Makefile	/^AMTAR = $${TAR-tar}$/;"	m
+AMTAR	src/lfufs/Makefile	/^AMTAR = $${TAR-tar}$/;"	m
+AM_RECURSIVE_TARGETS	Makefile	/^AM_RECURSIVE_TARGETS = $(RECURSIVE_TARGETS:-recursive=) \\$/;"	m
+AM_RECURSIVE_TARGETS	src/Makefile	/^AM_RECURSIVE_TARGETS = $(RECURSIVE_TARGETS:-recursive=) \\$/;"	m
+AUTOCONF	Makefile	/^AUTOCONF = ${SHELL} \/home\/lyb\/hybwps\/soeyes\/missing --run autoconf$/;"	m
+AUTOCONF	src/Makefile	/^AUTOCONF = ${SHELL} \/home\/lyb\/hybwps\/soeyes\/missing --run autoconf$/;"	m
+AUTOCONF	src/consist/Makefile	/^AUTOCONF = ${SHELL} \/home\/lyb\/hybwps\/soeyes\/missing --run autoconf$/;"	m
+AUTOCONF	src/index/Makefile	/^AUTOCONF = ${SHELL} \/home\/lyb\/hybwps\/soeyes\/missing --run autoconf$/;"	m
+AUTOCONF	src/lfufs/Makefile	/^AUTOCONF = ${SHELL} \/home\/lyb\/hybwps\/soeyes\/missing --run autoconf$/;"	m
+AUTOHEADER	Makefile	/^AUTOHEADER = ${SHELL} \/home\/lyb\/hybwps\/soeyes\/missing --run autoheader$/;"	m
+AUTOHEADER	src/Makefile	/^AUTOHEADER = ${SHELL} \/home\/lyb\/hybwps\/soeyes\/missing --run autoheader$/;"	m
+AUTOHEADER	src/consist/Makefile	/^AUTOHEADER = ${SHELL} \/home\/lyb\/hybwps\/soeyes\/missing --run autoheader$/;"	m
+AUTOHEADER	src/index/Makefile	/^AUTOHEADER = ${SHELL} \/home\/lyb\/hybwps\/soeyes\/missing --run autoheader$/;"	m
+AUTOHEADER	src/lfufs/Makefile	/^AUTOHEADER = ${SHELL} \/home\/lyb\/hybwps\/soeyes\/missing --run autoheader$/;"	m
+AUTOMAKE	Makefile	/^AUTOMAKE = ${SHELL} \/home\/lyb\/hybwps\/soeyes\/missing --run automake-1.11$/;"	m
+AUTOMAKE	src/Makefile	/^AUTOMAKE = ${SHELL} \/home\/lyb\/hybwps\/soeyes\/missing --run automake-1.11$/;"	m
+AUTOMAKE	src/consist/Makefile	/^AUTOMAKE = ${SHELL} \/home\/lyb\/hybwps\/soeyes\/missing --run automake-1.11$/;"	m
+AUTOMAKE	src/index/Makefile	/^AUTOMAKE = ${SHELL} \/home\/lyb\/hybwps\/soeyes\/missing --run automake-1.11$/;"	m
+AUTOMAKE	src/lfufs/Makefile	/^AUTOMAKE = ${SHELL} \/home\/lyb\/hybwps\/soeyes\/missing --run automake-1.11$/;"	m
+AUTOMAKE_OPTIONS	src/consist/Makefile	/^AUTOMAKE_OPTIONS = foreign$/;"	m
+AUTOMAKE_OPTIONS	src/index/Makefile	/^AUTOMAKE_OPTIONS = foreign$/;"	m
+AUTOMAKE_OPTIONS	src/lfufs/Makefile	/^AUTOMAKE_OPTIONS = foreign$/;"	m
+AWK	Makefile	/^AWK = gawk$/;"	m
+AWK	src/Makefile	/^AWK = gawk$/;"	m
+AWK	src/consist/Makefile	/^AWK = gawk$/;"	m
+AWK	src/index/Makefile	/^AWK = gawk$/;"	m
+AWK	src/lfufs/Makefile	/^AWK = gawk$/;"	m
+CC	Makefile	/^CC = gcc$/;"	m
+CC	src/Makefile	/^CC = gcc$/;"	m
+CC	src/consist/Makefile	/^CC = gcc$/;"	m
+CC	src/index/Makefile	/^CC = gcc$/;"	m
+CC	src/lfufs/Makefile	/^CC = gcc$/;"	m
+CCDEPMODE	Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCDEPMODE	src/Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCDEPMODE	src/consist/Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCDEPMODE	src/index/Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCDEPMODE	src/lfufs/Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCFITS_LIBS	Makefile	/^CCFITS_LIBS = -lCCfits$/;"	m
+CCFITS_LIBS	src/Makefile	/^CCFITS_LIBS = -lCCfits$/;"	m
+CCFITS_LIBS	src/consist/Makefile	/^CCFITS_LIBS = -lCCfits$/;"	m
+CCFITS_LIBS	src/index/Makefile	/^CCFITS_LIBS = -lCCfits$/;"	m
+CCFITS_LIBS	src/lfufs/Makefile	/^CCFITS_LIBS = -lCCfits$/;"	m
+CCLD	src/consist/Makefile	/^CCLD = $(CC)$/;"	m
+CCLD	src/lfufs/Makefile	/^CCLD = $(CC)$/;"	m
+CFITSIO_LIBS	Makefile	/^CFITSIO_LIBS = -lcfitsio$/;"	m
+CFITSIO_LIBS	src/Makefile	/^CFITSIO_LIBS = -lcfitsio$/;"	m
+CFITSIO_LIBS	src/consist/Makefile	/^CFITSIO_LIBS = -lcfitsio$/;"	m
+CFITSIO_LIBS	src/index/Makefile	/^CFITSIO_LIBS = -lcfitsio$/;"	m
+CFITSIO_LIBS	src/lfufs/Makefile	/^CFITSIO_LIBS = -lcfitsio$/;"	m
+CFLAGS	Makefile	/^CFLAGS = -gdwarf-2 -g3 -O0$/;"	m
+CFLAGS	src/Makefile	/^CFLAGS = -gdwarf-2 -g3 -O0$/;"	m
+CFLAGS	src/consist/Makefile	/^CFLAGS = -gdwarf-2 -g3 -O0$/;"	m
+CFLAGS	src/index/Makefile	/^CFLAGS = -gdwarf-2 -g3 -O0$/;"	m
+CFLAGS	src/lfufs/Makefile	/^CFLAGS = -gdwarf-2 -g3 -O0$/;"	m
+COMMON_H	src/index/common.h	2;"	d
+COMPILE	src/consist/Makefile	/^COMPILE = $(CC) $(DEFS) $(DEFAULT_INCLUDES) $(INCLUDES) $(AM_CPPFLAGS) \\$/;"	m
+COMPILE	src/lfufs/Makefile	/^COMPILE = $(CC) $(DEFS) $(DEFAULT_INCLUDES) $(INCLUDES) $(AM_CPPFLAGS) \\$/;"	m
+CONFIG_CLEAN_FILES	Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_FILES	src/Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_FILES	src/consist/Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_FILES	src/index/Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_FILES	src/lfufs/Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_VPATH_FILES	Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m
+CONFIG_CLEAN_VPATH_FILES	src/Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m
+CONFIG_CLEAN_VPATH_FILES	src/consist/Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m
+CONFIG_CLEAN_VPATH_FILES	src/index/Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m
+CONFIG_CLEAN_VPATH_FILES	src/lfufs/Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m
+CONFIG_HEADER	Makefile	/^CONFIG_HEADER = config.h$/;"	m
+CONFIG_HEADER	src/Makefile	/^CONFIG_HEADER = $(top_builddir)\/config.h$/;"	m
+CONFIG_HEADER	src/consist/Makefile	/^CONFIG_HEADER = $(top_builddir)\/config.h$/;"	m
+CONFIG_HEADER	src/index/Makefile	/^CONFIG_HEADER = $(top_builddir)\/config.h$/;"	m
+CONFIG_HEADER	src/lfufs/Makefile	/^CONFIG_HEADER = $(top_builddir)\/config.h$/;"	m
+CPP	Makefile	/^CPP = gcc -E$/;"	m
+CPP	src/Makefile	/^CPP = gcc -E$/;"	m
+CPP	src/consist/Makefile	/^CPP = gcc -E$/;"	m
+CPP	src/index/Makefile	/^CPP = gcc -E$/;"	m
+CPP	src/lfufs/Makefile	/^CPP = gcc -E$/;"	m
+CPPFLAGS	Makefile	/^CPPFLAGS = $/;"	m
+CPPFLAGS	src/Makefile	/^CPPFLAGS = $/;"	m
+CPPFLAGS	src/consist/Makefile	/^CPPFLAGS = $/;"	m
+CPPFLAGS	src/index/Makefile	/^CPPFLAGS = $/;"	m
+CPPFLAGS	src/lfufs/Makefile	/^CPPFLAGS = $/;"	m
+CTAGS	Makefile	/^CTAGS = ctags$/;"	m
+CTAGS	src/Makefile	/^CTAGS = ctags$/;"	m
+CTAGS	src/consist/Makefile	/^CTAGS = ctags$/;"	m
+CTAGS	src/index/Makefile	/^CTAGS = ctags$/;"	m
+CTAGS	src/lfufs/Makefile	/^CTAGS = ctags$/;"	m
+CXX	Makefile	/^CXX = g++$/;"	m
+CXX	src/Makefile	/^CXX = g++$/;"	m
+CXX	src/consist/Makefile	/^CXX = g++$/;"	m
+CXX	src/index/Makefile	/^CXX = g++$/;"	m
+CXX	src/lfufs/Makefile	/^CXX = g++$/;"	m
+CXXCOMPILE	src/index/Makefile	/^CXXCOMPILE = $(CXX) $(DEFS) $(DEFAULT_INCLUDES) $(INCLUDES) \\$/;"	m
+CXXDEPMODE	Makefile	/^CXXDEPMODE = depmode=gcc3$/;"	m
+CXXDEPMODE	src/Makefile	/^CXXDEPMODE = depmode=gcc3$/;"	m
+CXXDEPMODE	src/consist/Makefile	/^CXXDEPMODE = depmode=gcc3$/;"	m
+CXXDEPMODE	src/index/Makefile	/^CXXDEPMODE = depmode=gcc3$/;"	m
+CXXDEPMODE	src/lfufs/Makefile	/^CXXDEPMODE = depmode=gcc3$/;"	m
+CXXFLAGS	Makefile	/^CXXFLAGS = -g -O2$/;"	m
+CXXFLAGS	src/Makefile	/^CXXFLAGS = -g -O2$/;"	m
+CXXFLAGS	src/consist/Makefile	/^CXXFLAGS = -g -O2$/;"	m
+CXXFLAGS	src/index/Makefile	/^CXXFLAGS = -g -O2$/;"	m
+CXXFLAGS	src/lfufs/Makefile	/^CXXFLAGS = -g -O2$/;"	m
+CXXLD	src/index/Makefile	/^CXXLD = $(CXX)$/;"	m
+CXXLINK	src/index/Makefile	/^CXXLINK = $(CXXLD) $(AM_CXXFLAGS) $(CXXFLAGS) $(AM_LDFLAGS) $(LDFLAGS) \\$/;"	m
+CYGPATH_W	Makefile	/^CYGPATH_W = echo$/;"	m
+CYGPATH_W	src/Makefile	/^CYGPATH_W = echo$/;"	m
+CYGPATH_W	src/consist/Makefile	/^CYGPATH_W = echo$/;"	m
+CYGPATH_W	src/index/Makefile	/^CYGPATH_W = echo$/;"	m
+CYGPATH_W	src/lfufs/Makefile	/^CYGPATH_W = echo$/;"	m
+DEFAULT_INCLUDES	src/consist/Makefile	/^DEFAULT_INCLUDES = -I. -I$(top_builddir)$/;"	m
+DEFAULT_INCLUDES	src/index/Makefile	/^DEFAULT_INCLUDES = -I. -I$(top_builddir)$/;"	m
+DEFAULT_INCLUDES	src/lfufs/Makefile	/^DEFAULT_INCLUDES = -I. -I$(top_builddir)$/;"	m
+DEFS	Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEFS	src/Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEFS	src/consist/Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEFS	src/index/Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEFS	src/lfufs/Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEPDIR	Makefile	/^DEPDIR = .deps$/;"	m
+DEPDIR	src/Makefile	/^DEPDIR = .deps$/;"	m
+DEPDIR	src/consist/Makefile	/^DEPDIR = .deps$/;"	m
+DEPDIR	src/index/Makefile	/^DEPDIR = .deps$/;"	m
+DEPDIR	src/lfufs/Makefile	/^DEPDIR = .deps$/;"	m
+DISTFILES	Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DISTFILES	src/Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DISTFILES	src/consist/Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DISTFILES	src/index/Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DISTFILES	src/lfufs/Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DIST_ARCHIVES	Makefile	/^DIST_ARCHIVES = $(distdir).tar.gz$/;"	m
+DIST_COMMON	Makefile	/^DIST_COMMON = README $(am__configure_deps) $(srcdir)\/Makefile.am \\$/;"	m
+DIST_COMMON	src/Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.am $(srcdir)\/Makefile.in$/;"	m
+DIST_COMMON	src/consist/Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.am $(srcdir)\/Makefile.in$/;"	m
+DIST_COMMON	src/index/Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.am $(srcdir)\/Makefile.in$/;"	m
+DIST_COMMON	src/lfufs/Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.am $(srcdir)\/Makefile.in$/;"	m
+DIST_SOURCES	Makefile	/^DIST_SOURCES =$/;"	m
+DIST_SOURCES	src/Makefile	/^DIST_SOURCES =$/;"	m
+DIST_SOURCES	src/consist/Makefile	/^DIST_SOURCES = $(main_SOURCES)$/;"	m
+DIST_SOURCES	src/index/Makefile	/^DIST_SOURCES = $(readfits_SOURCES)$/;"	m
+DIST_SOURCES	src/lfufs/Makefile	/^DIST_SOURCES = $(main_SOURCES)$/;"	m
+DIST_SUBDIRS	Makefile	/^DIST_SUBDIRS = $(SUBDIRS)$/;"	m
+DIST_SUBDIRS	src/Makefile	/^DIST_SUBDIRS = $(SUBDIRS)$/;"	m
+ECHO_C	Makefile	/^ECHO_C = $/;"	m
+ECHO_C	src/Makefile	/^ECHO_C = $/;"	m
+ECHO_C	src/consist/Makefile	/^ECHO_C = $/;"	m
+ECHO_C	src/index/Makefile	/^ECHO_C = $/;"	m
+ECHO_C	src/lfufs/Makefile	/^ECHO_C = $/;"	m
+ECHO_N	Makefile	/^ECHO_N = -n$/;"	m
+ECHO_N	src/Makefile	/^ECHO_N = -n$/;"	m
+ECHO_N	src/consist/Makefile	/^ECHO_N = -n$/;"	m
+ECHO_N	src/index/Makefile	/^ECHO_N = -n$/;"	m
+ECHO_N	src/lfufs/Makefile	/^ECHO_N = -n$/;"	m
+ECHO_T	Makefile	/^ECHO_T = $/;"	m
+ECHO_T	src/Makefile	/^ECHO_T = $/;"	m
+ECHO_T	src/consist/Makefile	/^ECHO_T = $/;"	m
+ECHO_T	src/index/Makefile	/^ECHO_T = $/;"	m
+ECHO_T	src/lfufs/Makefile	/^ECHO_T = $/;"	m
+EGREP	Makefile	/^EGREP = \/bin\/grep -E$/;"	m
+EGREP	src/Makefile	/^EGREP = \/bin\/grep -E$/;"	m
+EGREP	src/consist/Makefile	/^EGREP = \/bin\/grep -E$/;"	m
+EGREP	src/index/Makefile	/^EGREP = \/bin\/grep -E$/;"	m
+EGREP	src/lfufs/Makefile	/^EGREP = \/bin\/grep -E$/;"	m
+ETAGS	Makefile	/^ETAGS = etags$/;"	m
+ETAGS	src/Makefile	/^ETAGS = etags$/;"	m
+ETAGS	src/consist/Makefile	/^ETAGS = etags$/;"	m
+ETAGS	src/index/Makefile	/^ETAGS = etags$/;"	m
+ETAGS	src/lfufs/Makefile	/^ETAGS = etags$/;"	m
+EXEEXT	Makefile	/^EXEEXT = $/;"	m
+EXEEXT	src/Makefile	/^EXEEXT = $/;"	m
+EXEEXT	src/consist/Makefile	/^EXEEXT = $/;"	m
+EXEEXT	src/index/Makefile	/^EXEEXT = $/;"	m
+EXEEXT	src/lfufs/Makefile	/^EXEEXT = $/;"	m
+FitsIndex	src/index/common.h	/^	 class FitsIndex$/;"	c	namespace:SoEyes
+GREP	Makefile	/^GREP = \/bin\/grep$/;"	m
+GREP	src/Makefile	/^GREP = \/bin\/grep$/;"	m
+GREP	src/consist/Makefile	/^GREP = \/bin\/grep$/;"	m
+GREP	src/index/Makefile	/^GREP = \/bin\/grep$/;"	m
+GREP	src/lfufs/Makefile	/^GREP = \/bin\/grep$/;"	m
+GZIP_ENV	Makefile	/^GZIP_ENV = --best$/;"	m
+HAVE_INTTYPES_H	config.h	5;"	d
+HAVE_MEMORY_H	config.h	8;"	d
+HAVE_PTHREAD_H	config.h	11;"	d
+HAVE_STDINT_H	config.h	14;"	d
+HAVE_STDLIB_H	config.h	17;"	d
+HAVE_STRINGS_H	config.h	20;"	d
+HAVE_STRING_H	config.h	23;"	d
+HAVE_SYS_STAT_H	config.h	26;"	d
+HAVE_SYS_TYPES_H	config.h	29;"	d
+HAVE_UNISTD_H	config.h	32;"	d
+INSTALL	Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL	src/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL	src/consist/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL	src/index/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL	src/lfufs/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL_DATA	Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_DATA	src/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_DATA	src/consist/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_DATA	src/index/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_DATA	src/lfufs/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_HEADER	Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_HEADER	src/Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_HEADER	src/consist/Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_HEADER	src/index/Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_HEADER	src/lfufs/Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_PROGRAM	Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_PROGRAM	src/Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_PROGRAM	src/consist/Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_PROGRAM	src/index/Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_PROGRAM	src/lfufs/Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	src/Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	src/consist/Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	src/index/Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	src/lfufs/Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_STRIP_PROGRAM	Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m
+INSTALL_STRIP_PROGRAM	src/Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m
+INSTALL_STRIP_PROGRAM	src/consist/Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m
+INSTALL_STRIP_PROGRAM	src/index/Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m
+INSTALL_STRIP_PROGRAM	src/lfufs/Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m
+LDFLAGS	Makefile	/^LDFLAGS = $/;"	m
+LDFLAGS	src/Makefile	/^LDFLAGS = $/;"	m
+LDFLAGS	src/consist/Makefile	/^LDFLAGS = $/;"	m
+LDFLAGS	src/index/Makefile	/^LDFLAGS = $/;"	m
+LDFLAGS	src/lfufs/Makefile	/^LDFLAGS = $/;"	m
+LIBOBJS	Makefile	/^LIBOBJS = $/;"	m
+LIBOBJS	src/Makefile	/^LIBOBJS = $/;"	m
+LIBOBJS	src/consist/Makefile	/^LIBOBJS = $/;"	m
+LIBOBJS	src/index/Makefile	/^LIBOBJS = $/;"	m
+LIBOBJS	src/lfufs/Makefile	/^LIBOBJS = $/;"	m
+LIBS	Makefile	/^LIBS = -lpthread $/;"	m
+LIBS	src/Makefile	/^LIBS = -lpthread $/;"	m
+LIBS	src/consist/Makefile	/^LIBS = -lpthread $/;"	m
+LIBS	src/index/Makefile	/^LIBS = -lpthread $/;"	m
+LIBS	src/lfufs/Makefile	/^LIBS = -lpthread $/;"	m
+LINK	src/consist/Makefile	/^LINK = $(CCLD) $(AM_CFLAGS) $(CFLAGS) $(AM_LDFLAGS) $(LDFLAGS) -o $@$/;"	m
+LINK	src/lfufs/Makefile	/^LINK = $(CCLD) $(AM_CFLAGS) $(CFLAGS) $(AM_LDFLAGS) $(LDFLAGS) -o $@$/;"	m
+LTLIBOBJS	Makefile	/^LTLIBOBJS = $/;"	m
+LTLIBOBJS	src/Makefile	/^LTLIBOBJS = $/;"	m
+LTLIBOBJS	src/consist/Makefile	/^LTLIBOBJS = $/;"	m
+LTLIBOBJS	src/index/Makefile	/^LTLIBOBJS = $/;"	m
+LTLIBOBJS	src/lfufs/Makefile	/^LTLIBOBJS = $/;"	m
+MAKEINFO	Makefile	/^MAKEINFO = ${SHELL} \/home\/lyb\/hybwps\/soeyes\/missing --run makeinfo$/;"	m
+MAKEINFO	src/Makefile	/^MAKEINFO = ${SHELL} \/home\/lyb\/hybwps\/soeyes\/missing --run makeinfo$/;"	m
+MAKEINFO	src/consist/Makefile	/^MAKEINFO = ${SHELL} \/home\/lyb\/hybwps\/soeyes\/missing --run makeinfo$/;"	m
+MAKEINFO	src/index/Makefile	/^MAKEINFO = ${SHELL} \/home\/lyb\/hybwps\/soeyes\/missing --run makeinfo$/;"	m
+MAKEINFO	src/lfufs/Makefile	/^MAKEINFO = ${SHELL} \/home\/lyb\/hybwps\/soeyes\/missing --run makeinfo$/;"	m
+MKDIR_P	Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m
+MKDIR_P	src/Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m
+MKDIR_P	src/consist/Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m
+MKDIR_P	src/index/Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m
+MKDIR_P	src/lfufs/Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m
+NORMAL_INSTALL	Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_INSTALL	src/Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_INSTALL	src/consist/Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_INSTALL	src/index/Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_INSTALL	src/lfufs/Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_UNINSTALL	Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NORMAL_UNINSTALL	src/Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NORMAL_UNINSTALL	src/consist/Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NORMAL_UNINSTALL	src/index/Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NORMAL_UNINSTALL	src/lfufs/Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+OBJEXT	Makefile	/^OBJEXT = o$/;"	m
+OBJEXT	src/Makefile	/^OBJEXT = o$/;"	m
+OBJEXT	src/consist/Makefile	/^OBJEXT = o$/;"	m
+OBJEXT	src/index/Makefile	/^OBJEXT = o$/;"	m
+OBJEXT	src/lfufs/Makefile	/^OBJEXT = o$/;"	m
+PACKAGE	Makefile	/^PACKAGE = soeyes$/;"	m
+PACKAGE	config.h	35;"	d
+PACKAGE	src/Makefile	/^PACKAGE = soeyes$/;"	m
+PACKAGE	src/consist/Makefile	/^PACKAGE = soeyes$/;"	m
+PACKAGE	src/index/Makefile	/^PACKAGE = soeyes$/;"	m
+PACKAGE	src/lfufs/Makefile	/^PACKAGE = soeyes$/;"	m
+PACKAGE_BUGREPORT	Makefile	/^PACKAGE_BUGREPORT = $/;"	m
+PACKAGE_BUGREPORT	config.h	38;"	d
+PACKAGE_BUGREPORT	src/Makefile	/^PACKAGE_BUGREPORT = $/;"	m
+PACKAGE_BUGREPORT	src/consist/Makefile	/^PACKAGE_BUGREPORT = $/;"	m
+PACKAGE_BUGREPORT	src/index/Makefile	/^PACKAGE_BUGREPORT = $/;"	m
+PACKAGE_BUGREPORT	src/lfufs/Makefile	/^PACKAGE_BUGREPORT = $/;"	m
+PACKAGE_NAME	Makefile	/^PACKAGE_NAME = soeyes$/;"	m
+PACKAGE_NAME	config.h	41;"	d
+PACKAGE_NAME	src/Makefile	/^PACKAGE_NAME = soeyes$/;"	m
+PACKAGE_NAME	src/consist/Makefile	/^PACKAGE_NAME = soeyes$/;"	m
+PACKAGE_NAME	src/index/Makefile	/^PACKAGE_NAME = soeyes$/;"	m
+PACKAGE_NAME	src/lfufs/Makefile	/^PACKAGE_NAME = soeyes$/;"	m
+PACKAGE_STRING	Makefile	/^PACKAGE_STRING = soeyes 0.1$/;"	m
+PACKAGE_STRING	config.h	44;"	d
+PACKAGE_STRING	src/Makefile	/^PACKAGE_STRING = soeyes 0.1$/;"	m
+PACKAGE_STRING	src/consist/Makefile	/^PACKAGE_STRING = soeyes 0.1$/;"	m
+PACKAGE_STRING	src/index/Makefile	/^PACKAGE_STRING = soeyes 0.1$/;"	m
+PACKAGE_STRING	src/lfufs/Makefile	/^PACKAGE_STRING = soeyes 0.1$/;"	m
+PACKAGE_TARNAME	Makefile	/^PACKAGE_TARNAME = soeyes$/;"	m
+PACKAGE_TARNAME	config.h	47;"	d
+PACKAGE_TARNAME	src/Makefile	/^PACKAGE_TARNAME = soeyes$/;"	m
+PACKAGE_TARNAME	src/consist/Makefile	/^PACKAGE_TARNAME = soeyes$/;"	m
+PACKAGE_TARNAME	src/index/Makefile	/^PACKAGE_TARNAME = soeyes$/;"	m
+PACKAGE_TARNAME	src/lfufs/Makefile	/^PACKAGE_TARNAME = soeyes$/;"	m
+PACKAGE_URL	Makefile	/^PACKAGE_URL = $/;"	m
+PACKAGE_URL	config.h	50;"	d
+PACKAGE_URL	src/Makefile	/^PACKAGE_URL = $/;"	m
+PACKAGE_URL	src/consist/Makefile	/^PACKAGE_URL = $/;"	m
+PACKAGE_URL	src/index/Makefile	/^PACKAGE_URL = $/;"	m
+PACKAGE_URL	src/lfufs/Makefile	/^PACKAGE_URL = $/;"	m
+PACKAGE_VERSION	Makefile	/^PACKAGE_VERSION = 0.1$/;"	m
+PACKAGE_VERSION	config.h	53;"	d
+PACKAGE_VERSION	src/Makefile	/^PACKAGE_VERSION = 0.1$/;"	m
+PACKAGE_VERSION	src/consist/Makefile	/^PACKAGE_VERSION = 0.1$/;"	m
+PACKAGE_VERSION	src/index/Makefile	/^PACKAGE_VERSION = 0.1$/;"	m
+PACKAGE_VERSION	src/lfufs/Makefile	/^PACKAGE_VERSION = 0.1$/;"	m
+PATH_SEPARATOR	Makefile	/^PATH_SEPARATOR = :$/;"	m
+PATH_SEPARATOR	src/Makefile	/^PATH_SEPARATOR = :$/;"	m
+PATH_SEPARATOR	src/consist/Makefile	/^PATH_SEPARATOR = :$/;"	m
+PATH_SEPARATOR	src/index/Makefile	/^PATH_SEPARATOR = :$/;"	m
+PATH_SEPARATOR	src/lfufs/Makefile	/^PATH_SEPARATOR = :$/;"	m
+POST_INSTALL	Makefile	/^POST_INSTALL = :$/;"	m
+POST_INSTALL	src/Makefile	/^POST_INSTALL = :$/;"	m
+POST_INSTALL	src/consist/Makefile	/^POST_INSTALL = :$/;"	m
+POST_INSTALL	src/index/Makefile	/^POST_INSTALL = :$/;"	m
+POST_INSTALL	src/lfufs/Makefile	/^POST_INSTALL = :$/;"	m
+POST_UNINSTALL	Makefile	/^POST_UNINSTALL = :$/;"	m
+POST_UNINSTALL	src/Makefile	/^POST_UNINSTALL = :$/;"	m
+POST_UNINSTALL	src/consist/Makefile	/^POST_UNINSTALL = :$/;"	m
+POST_UNINSTALL	src/index/Makefile	/^POST_UNINSTALL = :$/;"	m
+POST_UNINSTALL	src/lfufs/Makefile	/^POST_UNINSTALL = :$/;"	m
+PRE_INSTALL	Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_INSTALL	src/Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_INSTALL	src/consist/Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_INSTALL	src/index/Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_INSTALL	src/lfufs/Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_UNINSTALL	Makefile	/^PRE_UNINSTALL = :$/;"	m
+PRE_UNINSTALL	src/Makefile	/^PRE_UNINSTALL = :$/;"	m
+PRE_UNINSTALL	src/consist/Makefile	/^PRE_UNINSTALL = :$/;"	m
+PRE_UNINSTALL	src/index/Makefile	/^PRE_UNINSTALL = :$/;"	m
+PRE_UNINSTALL	src/lfufs/Makefile	/^PRE_UNINSTALL = :$/;"	m
+PROGRAMS	src/consist/Makefile	/^PROGRAMS = $(bin_PROGRAMS)$/;"	m
+PROGRAMS	src/index/Makefile	/^PROGRAMS = $(bin_PROGRAMS)$/;"	m
+PROGRAMS	src/lfufs/Makefile	/^PROGRAMS = $(bin_PROGRAMS)$/;"	m
+PTHREAD_LIBS	Makefile	/^PTHREAD_LIBS = -lpthread$/;"	m
+PTHREAD_LIBS	src/Makefile	/^PTHREAD_LIBS = -lpthread$/;"	m
+PTHREAD_LIBS	src/consist/Makefile	/^PTHREAD_LIBS = -lpthread$/;"	m
+PTHREAD_LIBS	src/index/Makefile	/^PTHREAD_LIBS = -lpthread$/;"	m
+PTHREAD_LIBS	src/lfufs/Makefile	/^PTHREAD_LIBS = -lpthread$/;"	m
+RECURSIVE_CLEAN_TARGETS	Makefile	/^RECURSIVE_CLEAN_TARGETS = mostlyclean-recursive clean-recursive	\\$/;"	m
+RECURSIVE_CLEAN_TARGETS	src/Makefile	/^RECURSIVE_CLEAN_TARGETS = mostlyclean-recursive clean-recursive	\\$/;"	m
+RECURSIVE_TARGETS	Makefile	/^RECURSIVE_TARGETS = all-recursive check-recursive dvi-recursive \\$/;"	m
+RECURSIVE_TARGETS	src/Makefile	/^RECURSIVE_TARGETS = all-recursive check-recursive dvi-recursive \\$/;"	m
+SET_MAKE	Makefile	/^SET_MAKE = $/;"	m
+SET_MAKE	src/Makefile	/^SET_MAKE = $/;"	m
+SET_MAKE	src/consist/Makefile	/^SET_MAKE = $/;"	m
+SET_MAKE	src/index/Makefile	/^SET_MAKE = $/;"	m
+SET_MAKE	src/lfufs/Makefile	/^SET_MAKE = $/;"	m
+SHELL	Makefile	/^SHELL = \/bin\/bash$/;"	m
+SHELL	src/Makefile	/^SHELL = \/bin\/bash$/;"	m
+SHELL	src/consist/Makefile	/^SHELL = \/bin\/bash$/;"	m
+SHELL	src/index/Makefile	/^SHELL = \/bin\/bash$/;"	m
+SHELL	src/lfufs/Makefile	/^SHELL = \/bin\/bash$/;"	m
+SOURCES	Makefile	/^SOURCES =$/;"	m
+SOURCES	src/Makefile	/^SOURCES =$/;"	m
+SOURCES	src/consist/Makefile	/^SOURCES = $(main_SOURCES)$/;"	m
+SOURCES	src/index/Makefile	/^SOURCES = $(readfits_SOURCES)$/;"	m
+SOURCES	src/lfufs/Makefile	/^SOURCES = $(main_SOURCES)$/;"	m
+STDC_HEADERS	config.h	56;"	d
+STRIP	Makefile	/^STRIP = $/;"	m
+STRIP	src/Makefile	/^STRIP = $/;"	m
+STRIP	src/consist/Makefile	/^STRIP = $/;"	m
+STRIP	src/index/Makefile	/^STRIP = $/;"	m
+STRIP	src/lfufs/Makefile	/^STRIP = $/;"	m
+SUBDIRS	Makefile	/^SUBDIRS = src$/;"	m
+SUBDIRS	src/Makefile	/^SUBDIRS = consist$/;"	m
+SoEyes	src/index/common.h	/^namespace SoEyes$/;"	n
+VERSION	Makefile	/^VERSION = 0.1$/;"	m
+VERSION	config.h	59;"	d
+VERSION	src/Makefile	/^VERSION = 0.1$/;"	m
+VERSION	src/consist/Makefile	/^VERSION = 0.1$/;"	m
+VERSION	src/index/Makefile	/^VERSION = 0.1$/;"	m
+VERSION	src/lfufs/Makefile	/^VERSION = 0.1$/;"	m
+abs_builddir	Makefile	/^abs_builddir = \/home\/lyb\/hybwps\/soeyes$/;"	m
+abs_builddir	src/Makefile	/^abs_builddir = \/home\/lyb\/hybwps\/soeyes\/src$/;"	m
+abs_builddir	src/consist/Makefile	/^abs_builddir = \/home\/lyb\/hybwps\/soeyes\/src\/consist$/;"	m
+abs_builddir	src/index/Makefile	/^abs_builddir = \/home\/lyb\/hybwps\/soeyes\/src\/index$/;"	m
+abs_builddir	src/lfufs/Makefile	/^abs_builddir = \/home\/lyb\/hybwps\/soeyes\/src\/lfufs$/;"	m
+abs_srcdir	Makefile	/^abs_srcdir = \/home\/lyb\/hybwps\/soeyes$/;"	m
+abs_srcdir	src/Makefile	/^abs_srcdir = \/home\/lyb\/hybwps\/soeyes\/src$/;"	m
+abs_srcdir	src/consist/Makefile	/^abs_srcdir = \/home\/lyb\/hybwps\/soeyes\/src\/consist$/;"	m
+abs_srcdir	src/index/Makefile	/^abs_srcdir = \/home\/lyb\/hybwps\/soeyes\/src\/index$/;"	m
+abs_srcdir	src/lfufs/Makefile	/^abs_srcdir = \/home\/lyb\/hybwps\/soeyes\/src\/lfufs$/;"	m
+abs_top_builddir	Makefile	/^abs_top_builddir = \/home\/lyb\/hybwps\/soeyes$/;"	m
+abs_top_builddir	src/Makefile	/^abs_top_builddir = \/home\/lyb\/hybwps\/soeyes$/;"	m
+abs_top_builddir	src/consist/Makefile	/^abs_top_builddir = \/home\/lyb\/hybwps\/soeyes$/;"	m
+abs_top_builddir	src/index/Makefile	/^abs_top_builddir = \/home\/lyb\/hybwps\/soeyes$/;"	m
+abs_top_builddir	src/lfufs/Makefile	/^abs_top_builddir = \/home\/lyb\/hybwps\/soeyes$/;"	m
+abs_top_srcdir	Makefile	/^abs_top_srcdir = \/home\/lyb\/hybwps\/soeyes$/;"	m
+abs_top_srcdir	src/Makefile	/^abs_top_srcdir = \/home\/lyb\/hybwps\/soeyes$/;"	m
+abs_top_srcdir	src/consist/Makefile	/^abs_top_srcdir = \/home\/lyb\/hybwps\/soeyes$/;"	m
+abs_top_srcdir	src/index/Makefile	/^abs_top_srcdir = \/home\/lyb\/hybwps\/soeyes$/;"	m
+abs_top_srcdir	src/lfufs/Makefile	/^abs_top_srcdir = \/home\/lyb\/hybwps\/soeyes$/;"	m
+ac_ct_CC	Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_CC	src/Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_CC	src/consist/Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_CC	src/index/Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_CC	src/lfufs/Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_CXX	Makefile	/^ac_ct_CXX = g++$/;"	m
+ac_ct_CXX	src/Makefile	/^ac_ct_CXX = g++$/;"	m
+ac_ct_CXX	src/consist/Makefile	/^ac_ct_CXX = g++$/;"	m
+ac_ct_CXX	src/index/Makefile	/^ac_ct_CXX = g++$/;"	m
+ac_ct_CXX	src/lfufs/Makefile	/^ac_ct_CXX = g++$/;"	m
+ac_fn_c_check_header_compile	configure	/^ac_fn_c_check_header_compile ()$/;"	f
+ac_fn_c_check_header_mongrel	configure	/^ac_fn_c_check_header_mongrel ()$/;"	f
+ac_fn_c_try_compile	configure	/^ac_fn_c_try_compile ()$/;"	f
+ac_fn_c_try_cpp	configure	/^ac_fn_c_try_cpp ()$/;"	f
+ac_fn_c_try_link	configure	/^ac_fn_c_try_link ()$/;"	f
+ac_fn_c_try_run	configure	/^ac_fn_c_try_run ()$/;"	f
+ac_fn_cxx_try_compile	configure	/^ac_fn_cxx_try_compile ()$/;"	f
+am__CONFIG_DISTCLEAN_FILES	Makefile	/^am__CONFIG_DISTCLEAN_FILES = config.status config.cache config.log \\$/;"	m
+am__aclocal_m4_deps	Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/configure.ac$/;"	m
+am__aclocal_m4_deps	src/Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/configure.ac$/;"	m
+am__aclocal_m4_deps	src/consist/Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/configure.ac$/;"	m
+am__aclocal_m4_deps	src/index/Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/configure.ac$/;"	m
+am__aclocal_m4_deps	src/lfufs/Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/configure.ac$/;"	m
+am__can_run_installinfo	Makefile	/^am__can_run_installinfo = \\$/;"	m
+am__can_run_installinfo	src/Makefile	/^am__can_run_installinfo = \\$/;"	m
+am__can_run_installinfo	src/consist/Makefile	/^am__can_run_installinfo = \\$/;"	m
+am__can_run_installinfo	src/index/Makefile	/^am__can_run_installinfo = \\$/;"	m
+am__can_run_installinfo	src/lfufs/Makefile	/^am__can_run_installinfo = \\$/;"	m
+am__cd	Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__cd	src/Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__cd	src/consist/Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__cd	src/index/Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__cd	src/lfufs/Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__configure_deps	Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__configure_deps	src/Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__configure_deps	src/consist/Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__configure_deps	src/index/Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__configure_deps	src/lfufs/Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__depfiles_maybe	src/consist/Makefile	/^am__depfiles_maybe = depfiles$/;"	m
+am__depfiles_maybe	src/index/Makefile	/^am__depfiles_maybe = depfiles$/;"	m
+am__depfiles_maybe	src/lfufs/Makefile	/^am__depfiles_maybe = depfiles$/;"	m
+am__distuninstallcheck_listfiles	Makefile	/^am__distuninstallcheck_listfiles = $(distuninstallcheck_listfiles) \\$/;"	m
+am__include	Makefile	/^am__include = include$/;"	m
+am__include	src/Makefile	/^am__include = include$/;"	m
+am__include	src/consist/Makefile	/^am__include = include$/;"	m
+am__include	src/index/Makefile	/^am__include = include$/;"	m
+am__include	src/lfufs/Makefile	/^am__include = include$/;"	m
+am__installdirs	src/consist/Makefile	/^am__installdirs = "$(DESTDIR)$(bindir)"$/;"	m
+am__installdirs	src/index/Makefile	/^am__installdirs = "$(DESTDIR)$(bindir)"$/;"	m
+am__installdirs	src/lfufs/Makefile	/^am__installdirs = "$(DESTDIR)$(bindir)"$/;"	m
+am__leading_dot	Makefile	/^am__leading_dot = .$/;"	m
+am__leading_dot	src/Makefile	/^am__leading_dot = .$/;"	m
+am__leading_dot	src/consist/Makefile	/^am__leading_dot = .$/;"	m
+am__leading_dot	src/index/Makefile	/^am__leading_dot = .$/;"	m
+am__leading_dot	src/lfufs/Makefile	/^am__leading_dot = .$/;"	m
+am__make_dryrun	Makefile	/^am__make_dryrun = \\$/;"	m
+am__make_dryrun	src/Makefile	/^am__make_dryrun = \\$/;"	m
+am__make_dryrun	src/consist/Makefile	/^am__make_dryrun = \\$/;"	m
+am__make_dryrun	src/index/Makefile	/^am__make_dryrun = \\$/;"	m
+am__make_dryrun	src/lfufs/Makefile	/^am__make_dryrun = \\$/;"	m
+am__mv	src/consist/Makefile	/^am__mv = mv -f$/;"	m
+am__mv	src/index/Makefile	/^am__mv = mv -f$/;"	m
+am__mv	src/lfufs/Makefile	/^am__mv = mv -f$/;"	m
+am__quote	Makefile	/^am__quote = $/;"	m
+am__quote	src/Makefile	/^am__quote = $/;"	m
+am__quote	src/consist/Makefile	/^am__quote = $/;"	m
+am__quote	src/index/Makefile	/^am__quote = $/;"	m
+am__quote	src/lfufs/Makefile	/^am__quote = $/;"	m
+am__relativize	Makefile	/^am__relativize = \\$/;"	m
+am__relativize	src/Makefile	/^am__relativize = \\$/;"	m
+am__remove_distdir	Makefile	/^am__remove_distdir = \\$/;"	m
+am__tar	Makefile	/^am__tar = $${TAR-tar} chof - "$$tardir"$/;"	m
+am__tar	src/Makefile	/^am__tar = $${TAR-tar} chof - "$$tardir"$/;"	m
+am__tar	src/consist/Makefile	/^am__tar = $${TAR-tar} chof - "$$tardir"$/;"	m
+am__tar	src/index/Makefile	/^am__tar = $${TAR-tar} chof - "$$tardir"$/;"	m
+am__tar	src/lfufs/Makefile	/^am__tar = $${TAR-tar} chof - "$$tardir"$/;"	m
+am__untar	Makefile	/^am__untar = $${TAR-tar} xf -$/;"	m
+am__untar	src/Makefile	/^am__untar = $${TAR-tar} xf -$/;"	m
+am__untar	src/consist/Makefile	/^am__untar = $${TAR-tar} xf -$/;"	m
+am__untar	src/index/Makefile	/^am__untar = $${TAR-tar} xf -$/;"	m
+am__untar	src/lfufs/Makefile	/^am__untar = $${TAR-tar} xf -$/;"	m
+am_main_OBJECTS	src/consist/Makefile	/^am_main_OBJECTS = main.$(OBJEXT)$/;"	m
+am_main_OBJECTS	src/lfufs/Makefile	/^am_main_OBJECTS = main.$(OBJEXT)$/;"	m
+am_readfits_OBJECTS	src/index/Makefile	/^am_readfits_OBJECTS = readFits.$(OBJEXT)$/;"	m
+as_fn_append	config.status	/^  as_fn_append ()$/;"	f
+as_fn_append	configure	/^  as_fn_append ()$/;"	f
+as_fn_arith	config.status	/^  as_fn_arith ()$/;"	f
+as_fn_arith	configure	/^  as_fn_arith ()$/;"	f
+as_fn_error	config.status	/^as_fn_error ()$/;"	f
+as_fn_error	configure	/^as_fn_error ()$/;"	f
+as_fn_executable_p	config.status	/^as_fn_executable_p ()$/;"	f
+as_fn_executable_p	configure	/^as_fn_executable_p ()$/;"	f
+as_fn_exit	config.status	/^as_fn_exit ()$/;"	f
+as_fn_exit	configure	/^as_fn_exit ()$/;"	f
+as_fn_failure	configure	/^as_fn_failure () { as_fn_return 1; }$/;"	f
+as_fn_mkdir_p	config.status	/^as_fn_mkdir_p ()$/;"	f
+as_fn_mkdir_p	configure	/^as_fn_mkdir_p ()$/;"	f
+as_fn_ret_failure	configure	/^as_fn_ret_failure () { return 1; }$/;"	f
+as_fn_ret_success	configure	/^as_fn_ret_success () { return 0; }$/;"	f
+as_fn_set_status	config.status	/^as_fn_set_status ()$/;"	f
+as_fn_set_status	configure	/^as_fn_set_status ()$/;"	f
+as_fn_success	configure	/^as_fn_success () { as_fn_return 0; }$/;"	f
+as_fn_unset	config.status	/^as_fn_unset ()$/;"	f
+as_fn_unset	configure	/^as_fn_unset ()$/;"	f
+bin_PROGRAMS	src/consist/Makefile	/^bin_PROGRAMS = main$(EXEEXT)$/;"	m
+bin_PROGRAMS	src/index/Makefile	/^bin_PROGRAMS = readfits$(EXEEXT)$/;"	m
+bin_PROGRAMS	src/lfufs/Makefile	/^bin_PROGRAMS = main$(EXEEXT)$/;"	m
+bindir	Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+bindir	src/Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+bindir	src/consist/Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+bindir	src/index/Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+bindir	src/lfufs/Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+build_alias	Makefile	/^build_alias = $/;"	m
+build_alias	src/Makefile	/^build_alias = $/;"	m
+build_alias	src/consist/Makefile	/^build_alias = $/;"	m
+build_alias	src/index/Makefile	/^build_alias = $/;"	m
+build_alias	src/lfufs/Makefile	/^build_alias = $/;"	m
+builddir	Makefile	/^builddir = .$/;"	m
+builddir	src/Makefile	/^builddir = .$/;"	m
+builddir	src/consist/Makefile	/^builddir = .$/;"	m
+builddir	src/index/Makefile	/^builddir = .$/;"	m
+builddir	src/lfufs/Makefile	/^builddir = .$/;"	m
+datadir	Makefile	/^datadir = ${datarootdir}$/;"	m
+datadir	src/Makefile	/^datadir = ${datarootdir}$/;"	m
+datadir	src/consist/Makefile	/^datadir = ${datarootdir}$/;"	m
+datadir	src/index/Makefile	/^datadir = ${datarootdir}$/;"	m
+datadir	src/lfufs/Makefile	/^datadir = ${datarootdir}$/;"	m
+datarootdir	Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+datarootdir	src/Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+datarootdir	src/consist/Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+datarootdir	src/index/Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+datarootdir	src/lfufs/Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+depcomp	src/consist/Makefile	/^depcomp = $(SHELL) $(top_srcdir)\/depcomp$/;"	m
+depcomp	src/index/Makefile	/^depcomp = $(SHELL) $(top_srcdir)\/depcomp$/;"	m
+depcomp	src/lfufs/Makefile	/^depcomp = $(SHELL) $(top_srcdir)\/depcomp$/;"	m
+distcleancheck_listfiles	Makefile	/^distcleancheck_listfiles = find . -type f -print$/;"	m
+distdir	Makefile	/^distdir = $(PACKAGE)-$(VERSION)$/;"	m
+distuninstallcheck_listfiles	Makefile	/^distuninstallcheck_listfiles = find . -type f -print$/;"	m
+docdir	Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE_TARNAME}$/;"	m
+docdir	src/Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE_TARNAME}$/;"	m
+docdir	src/consist/Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE_TARNAME}$/;"	m
+docdir	src/index/Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE_TARNAME}$/;"	m
+docdir	src/lfufs/Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE_TARNAME}$/;"	m
+dvidir	Makefile	/^dvidir = ${docdir}$/;"	m
+dvidir	src/Makefile	/^dvidir = ${docdir}$/;"	m
+dvidir	src/consist/Makefile	/^dvidir = ${docdir}$/;"	m
+dvidir	src/index/Makefile	/^dvidir = ${docdir}$/;"	m
+dvidir	src/lfufs/Makefile	/^dvidir = ${docdir}$/;"	m
+exec_prefix	Makefile	/^exec_prefix = ${prefix}$/;"	m
+exec_prefix	src/Makefile	/^exec_prefix = ${prefix}$/;"	m
+exec_prefix	src/consist/Makefile	/^exec_prefix = ${prefix}$/;"	m
+exec_prefix	src/index/Makefile	/^exec_prefix = ${prefix}$/;"	m
+exec_prefix	src/lfufs/Makefile	/^exec_prefix = ${prefix}$/;"	m
+genSingleFitsFile	src/index/rtWriteFits.cpp	/^void SoEyes::FitsIndex::genSingleFitsFile(std::string fileName)$/;"	f	class:SoEyes::FitsIndex
+host_alias	Makefile	/^host_alias = $/;"	m
+host_alias	src/Makefile	/^host_alias = $/;"	m
+host_alias	src/consist/Makefile	/^host_alias = $/;"	m
+host_alias	src/index/Makefile	/^host_alias = $/;"	m
+host_alias	src/lfufs/Makefile	/^host_alias = $/;"	m
+htmldir	Makefile	/^htmldir = ${docdir}$/;"	m
+htmldir	src/Makefile	/^htmldir = ${docdir}$/;"	m
+htmldir	src/consist/Makefile	/^htmldir = ${docdir}$/;"	m
+htmldir	src/index/Makefile	/^htmldir = ${docdir}$/;"	m
+htmldir	src/lfufs/Makefile	/^htmldir = ${docdir}$/;"	m
+includedir	Makefile	/^includedir = ${prefix}\/include$/;"	m
+includedir	src/Makefile	/^includedir = ${prefix}\/include$/;"	m
+includedir	src/consist/Makefile	/^includedir = ${prefix}\/include$/;"	m
+includedir	src/index/Makefile	/^includedir = ${prefix}\/include$/;"	m
+includedir	src/lfufs/Makefile	/^includedir = ${prefix}\/include$/;"	m
+infodir	Makefile	/^infodir = ${datarootdir}\/info$/;"	m
+infodir	src/Makefile	/^infodir = ${datarootdir}\/info$/;"	m
+infodir	src/consist/Makefile	/^infodir = ${datarootdir}\/info$/;"	m
+infodir	src/index/Makefile	/^infodir = ${datarootdir}\/info$/;"	m
+infodir	src/lfufs/Makefile	/^infodir = ${datarootdir}\/info$/;"	m
+install_sh	Makefile	/^install_sh = ${SHELL} \/home\/lyb\/hybwps\/soeyes\/install-sh$/;"	m
+install_sh	src/Makefile	/^install_sh = ${SHELL} \/home\/lyb\/hybwps\/soeyes\/install-sh$/;"	m
+install_sh	src/consist/Makefile	/^install_sh = ${SHELL} \/home\/lyb\/hybwps\/soeyes\/install-sh$/;"	m
+install_sh	src/index/Makefile	/^install_sh = ${SHELL} \/home\/lyb\/hybwps\/soeyes\/install-sh$/;"	m
+install_sh	src/lfufs/Makefile	/^install_sh = ${SHELL} \/home\/lyb\/hybwps\/soeyes\/install-sh$/;"	m
+install_sh_DATA	Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_DATA	src/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_DATA	src/consist/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_DATA	src/index/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_DATA	src/lfufs/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_PROGRAM	Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_PROGRAM	src/Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_PROGRAM	src/consist/Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_PROGRAM	src/index/Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_PROGRAM	src/lfufs/Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	src/Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	src/consist/Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	src/index/Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	src/lfufs/Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+libdir	Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libdir	src/Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libdir	src/consist/Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libdir	src/index/Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libdir	src/lfufs/Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libexecdir	Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+libexecdir	src/Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+libexecdir	src/consist/Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+libexecdir	src/index/Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+libexecdir	src/lfufs/Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+localedir	Makefile	/^localedir = ${datarootdir}\/locale$/;"	m
+localedir	src/Makefile	/^localedir = ${datarootdir}\/locale$/;"	m
+localedir	src/consist/Makefile	/^localedir = ${datarootdir}\/locale$/;"	m
+localedir	src/index/Makefile	/^localedir = ${datarootdir}\/locale$/;"	m
+localedir	src/lfufs/Makefile	/^localedir = ${datarootdir}\/locale$/;"	m
+localstatedir	Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+localstatedir	src/Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+localstatedir	src/consist/Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+localstatedir	src/index/Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+localstatedir	src/lfufs/Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+main	src/consist/main.c	/^void main()$/;"	f
+main	src/index/main.c	/^int main(int argc, char *argv[])$/;"	f
+main	src/index/readFits.cpp	/^int main(int argc, char *argv[])$/;"	f
+main	src/index/rtWriteFits.cpp	/^int main(int argc, char *argv[])$/;"	f
+main	src/lfufs/main.c	/^void main()$/;"	f
+main_LDADD	src/consist/Makefile	/^main_LDADD = $(LDADD)$/;"	m
+main_LDADD	src/lfufs/Makefile	/^main_LDADD = $(LDADD)$/;"	m
+main_OBJECTS	src/consist/Makefile	/^main_OBJECTS = $(am_main_OBJECTS)$/;"	m
+main_OBJECTS	src/lfufs/Makefile	/^main_OBJECTS = $(am_main_OBJECTS)$/;"	m
+main_SOURCES	src/consist/Makefile	/^main_SOURCES = main.c$/;"	m
+main_SOURCES	src/lfufs/Makefile	/^main_SOURCES = main.c$/;"	m
+mandir	Makefile	/^mandir = ${datarootdir}\/man$/;"	m
+mandir	src/Makefile	/^mandir = ${datarootdir}\/man$/;"	m
+mandir	src/consist/Makefile	/^mandir = ${datarootdir}\/man$/;"	m
+mandir	src/index/Makefile	/^mandir = ${datarootdir}\/man$/;"	m
+mandir	src/lfufs/Makefile	/^mandir = ${datarootdir}\/man$/;"	m
+mkdir_p	Makefile	/^mkdir_p = \/bin\/mkdir -p$/;"	m
+mkdir_p	src/Makefile	/^mkdir_p = \/bin\/mkdir -p$/;"	m
+mkdir_p	src/consist/Makefile	/^mkdir_p = \/bin\/mkdir -p$/;"	m
+mkdir_p	src/index/Makefile	/^mkdir_p = \/bin\/mkdir -p$/;"	m
+mkdir_p	src/lfufs/Makefile	/^mkdir_p = \/bin\/mkdir -p$/;"	m
+mkinstalldirs	Makefile	/^mkinstalldirs = $(install_sh) -d$/;"	m
+mkinstalldirs	src/Makefile	/^mkinstalldirs = $(install_sh) -d$/;"	m
+mkinstalldirs	src/consist/Makefile	/^mkinstalldirs = $(install_sh) -d$/;"	m
+mkinstalldirs	src/index/Makefile	/^mkinstalldirs = $(install_sh) -d$/;"	m
+mkinstalldirs	src/lfufs/Makefile	/^mkinstalldirs = $(install_sh) -d$/;"	m
+oldincludedir	Makefile	/^oldincludedir = \/usr\/include$/;"	m
+oldincludedir	src/Makefile	/^oldincludedir = \/usr\/include$/;"	m
+oldincludedir	src/consist/Makefile	/^oldincludedir = \/usr\/include$/;"	m
+oldincludedir	src/index/Makefile	/^oldincludedir = \/usr\/include$/;"	m
+oldincludedir	src/lfufs/Makefile	/^oldincludedir = \/usr\/include$/;"	m
+pdfdir	Makefile	/^pdfdir = ${docdir}$/;"	m
+pdfdir	src/Makefile	/^pdfdir = ${docdir}$/;"	m
+pdfdir	src/consist/Makefile	/^pdfdir = ${docdir}$/;"	m
+pdfdir	src/index/Makefile	/^pdfdir = ${docdir}$/;"	m
+pdfdir	src/lfufs/Makefile	/^pdfdir = ${docdir}$/;"	m
+pkgdatadir	Makefile	/^pkgdatadir = $(datadir)\/soeyes$/;"	m
+pkgdatadir	src/Makefile	/^pkgdatadir = $(datadir)\/soeyes$/;"	m
+pkgdatadir	src/consist/Makefile	/^pkgdatadir = $(datadir)\/soeyes$/;"	m
+pkgdatadir	src/index/Makefile	/^pkgdatadir = $(datadir)\/soeyes$/;"	m
+pkgdatadir	src/lfufs/Makefile	/^pkgdatadir = $(datadir)\/soeyes$/;"	m
+pkgincludedir	Makefile	/^pkgincludedir = $(includedir)\/soeyes$/;"	m
+pkgincludedir	src/Makefile	/^pkgincludedir = $(includedir)\/soeyes$/;"	m
+pkgincludedir	src/consist/Makefile	/^pkgincludedir = $(includedir)\/soeyes$/;"	m
+pkgincludedir	src/index/Makefile	/^pkgincludedir = $(includedir)\/soeyes$/;"	m
+pkgincludedir	src/lfufs/Makefile	/^pkgincludedir = $(includedir)\/soeyes$/;"	m
+pkglibdir	Makefile	/^pkglibdir = $(libdir)\/soeyes$/;"	m
+pkglibdir	src/Makefile	/^pkglibdir = $(libdir)\/soeyes$/;"	m
+pkglibdir	src/consist/Makefile	/^pkglibdir = $(libdir)\/soeyes$/;"	m
+pkglibdir	src/index/Makefile	/^pkglibdir = $(libdir)\/soeyes$/;"	m
+pkglibdir	src/lfufs/Makefile	/^pkglibdir = $(libdir)\/soeyes$/;"	m
+pkglibexecdir	Makefile	/^pkglibexecdir = $(libexecdir)\/soeyes$/;"	m
+pkglibexecdir	src/Makefile	/^pkglibexecdir = $(libexecdir)\/soeyes$/;"	m
+pkglibexecdir	src/consist/Makefile	/^pkglibexecdir = $(libexecdir)\/soeyes$/;"	m
+pkglibexecdir	src/index/Makefile	/^pkglibexecdir = $(libexecdir)\/soeyes$/;"	m
+pkglibexecdir	src/lfufs/Makefile	/^pkglibexecdir = $(libexecdir)\/soeyes$/;"	m
+prefix	Makefile	/^prefix = \/usr\/local$/;"	m
+prefix	src/Makefile	/^prefix = \/usr\/local$/;"	m
+prefix	src/consist/Makefile	/^prefix = \/usr\/local$/;"	m
+prefix	src/index/Makefile	/^prefix = \/usr\/local$/;"	m
+prefix	src/lfufs/Makefile	/^prefix = \/usr\/local$/;"	m
+program_transform_name	Makefile	/^program_transform_name = s,x,x,$/;"	m
+program_transform_name	src/Makefile	/^program_transform_name = s,x,x,$/;"	m
+program_transform_name	src/consist/Makefile	/^program_transform_name = s,x,x,$/;"	m
+program_transform_name	src/index/Makefile	/^program_transform_name = s,x,x,$/;"	m
+program_transform_name	src/lfufs/Makefile	/^program_transform_name = s,x,x,$/;"	m
+prototypes	configure	/^   function prototypes and stuff, but not '\\xHH' hex character constants.$/;"	f
+psdir	Makefile	/^psdir = ${docdir}$/;"	m
+psdir	src/Makefile	/^psdir = ${docdir}$/;"	m
+psdir	src/consist/Makefile	/^psdir = ${docdir}$/;"	m
+psdir	src/index/Makefile	/^psdir = ${docdir}$/;"	m
+psdir	src/lfufs/Makefile	/^psdir = ${docdir}$/;"	m
+readImage	src/index/readFits.cpp	/^int readImage()$/;"	f
+readfits_DEPENDENCIES	src/index/Makefile	/^readfits_DEPENDENCIES =$/;"	m
+readfits_LDADD	src/index/Makefile	/^readfits_LDADD = -lCCfits$/;"	m
+readfits_OBJECTS	src/index/Makefile	/^readfits_OBJECTS = $(am_readfits_OBJECTS)$/;"	m
+readfits_SOURCES	src/index/Makefile	/^readfits_SOURCES = readFits.cpp$/;"	m
+sbindir	Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sbindir	src/Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sbindir	src/consist/Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sbindir	src/index/Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sbindir	src/lfufs/Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sharedstatedir	Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+sharedstatedir	src/Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+sharedstatedir	src/consist/Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+sharedstatedir	src/index/Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+sharedstatedir	src/lfufs/Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+srcdir	Makefile	/^srcdir = .$/;"	m
+srcdir	src/Makefile	/^srcdir = .$/;"	m
+srcdir	src/consist/Makefile	/^srcdir = .$/;"	m
+srcdir	src/index/Makefile	/^srcdir = .$/;"	m
+srcdir	src/lfufs/Makefile	/^srcdir = .$/;"	m
+subdir	Makefile	/^subdir = .$/;"	m
+subdir	src/Makefile	/^subdir = src$/;"	m
+subdir	src/consist/Makefile	/^subdir = src\/consist$/;"	m
+subdir	src/index/Makefile	/^subdir = src\/index$/;"	m
+subdir	src/lfufs/Makefile	/^subdir = src\/lfufs$/;"	m
+sysconfdir	Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+sysconfdir	src/Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+sysconfdir	src/consist/Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+sysconfdir	src/index/Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+sysconfdir	src/lfufs/Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | BZIP2=$${BZIP2--9} bzip2 -c >$(distdir).tar.bz2$/;"	m
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | GZIP=$(GZIP_ENV) gzip -c >$(distdir).tar.gz$/;"	m
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | XZ_OPT=$${XZ_OPT--e} xz -c >$(distdir).tar.xz$/;"	m
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | compress -c >$(distdir).tar.Z$/;"	m
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | lzip -c $${LZIP_OPT--9} >$(distdir).tar.lz$/;"	m
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | lzma -9 -c >$(distdir).tar.lzma$/;"	m
+target_alias	Makefile	/^target_alias = $/;"	m
+target_alias	src/Makefile	/^target_alias = $/;"	m
+target_alias	src/consist/Makefile	/^target_alias = $/;"	m
+target_alias	src/index/Makefile	/^target_alias = $/;"	m
+target_alias	src/lfufs/Makefile	/^target_alias = $/;"	m
+top_build_prefix	Makefile	/^top_build_prefix = $/;"	m
+top_build_prefix	src/Makefile	/^top_build_prefix = ..\/$/;"	m
+top_build_prefix	src/consist/Makefile	/^top_build_prefix = ..\/..\/$/;"	m
+top_build_prefix	src/index/Makefile	/^top_build_prefix = ..\/..\/$/;"	m
+top_build_prefix	src/lfufs/Makefile	/^top_build_prefix = ..\/..\/$/;"	m
+top_builddir	Makefile	/^top_builddir = .$/;"	m
+top_builddir	src/Makefile	/^top_builddir = ..$/;"	m
+top_builddir	src/consist/Makefile	/^top_builddir = ..\/..$/;"	m
+top_builddir	src/index/Makefile	/^top_builddir = ..\/..$/;"	m
+top_builddir	src/lfufs/Makefile	/^top_builddir = ..\/..$/;"	m
+top_distdir	Makefile	/^top_distdir = $(distdir)$/;"	m
+top_srcdir	Makefile	/^top_srcdir = .$/;"	m
+top_srcdir	src/Makefile	/^top_srcdir = ..$/;"	m
+top_srcdir	src/consist/Makefile	/^top_srcdir = ..\/..$/;"	m
+top_srcdir	src/index/Makefile	/^top_srcdir = ..\/..$/;"	m
+top_srcdir	src/lfufs/Makefile	/^top_srcdir = ..\/..$/;"	m
+transform	Makefile	/^transform = $(program_transform_name)$/;"	m
+transform	src/Makefile	/^transform = $(program_transform_name)$/;"	m
+transform	src/consist/Makefile	/^transform = $(program_transform_name)$/;"	m
+transform	src/index/Makefile	/^transform = $(program_transform_name)$/;"	m
+transform	src/lfufs/Makefile	/^transform = $(program_transform_name)$/;"	m
