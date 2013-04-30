@@ -22,7 +22,7 @@ const char *server = "localhost";
 const char *user = "root";
 const char *password = "gsdjsj";
 const char *database = "fits";
-const char *insertSQL= "INSERT INTO fitsheader(t_dateobs,t_ra,t_dec,t_sr,t_ma)";
+const char *insertSQL= "INSERT INTO fitshead(t_dateobs,t_ra,t_dec,t_sr,t_ma)";
 
 struct thArg {
     const char* uid;
@@ -50,13 +50,11 @@ extern "C" void* thFun(void* arg) {
 
     memset(sqlstr,0,strlen(sqlstr));
     int count = 1;
-    for(int i = 0; i < 5383249; i++)
+    for(int i = 0; i < 1000000; i++)
     {
         strcat(sqlstr,insertSQL);
 
         time_t secs =  time(NULL);
-
-        rand_dateobs = static_cast<float>(secs);
         rand_ra = randomData(359999999)/1000000;//0~360
         rand_dec = randomData(179999999)/1000000;//0~180
         rand_sr = randomData(499999)/100000;//0~5
@@ -64,7 +62,7 @@ extern "C" void* thFun(void* arg) {
 
         
         strcat(sqlstr,"VALUES(");
-        sprintf(tmpstr,"%f",rand_dateobs);
+        sprintf(tmpstr,"%ld",secs);
         strcat(sqlstr,tmpstr);
         strcat(sqlstr,",");
 
