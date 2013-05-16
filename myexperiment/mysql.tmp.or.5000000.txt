@@ -1,0 +1,13 @@
+1	3.89567300	select * from fitshead where t_dateobs < 1368600050 or t_dateobs > 1368600985
+2	3.88680850	select * from fitshead where t_dateobs < 1368600050 or t_dateobs > 1368600985
+3	3.87979925	select * from fitshead where t_dateobs < 1368600050 or t_dateobs > 1368600985
+4	3.88741575	select * from fitshead where t_dateobs < 1368600050 or t_dateobs > 1368600985
+5	3.87212550	select * from fitshead where t_dateobs < 1368600050 or t_dateobs > 1368600985
+6	3.89697100	select * from fitshead where t_dateobs < 1368600050 or t_dateobs > 1368600985
+7	3.87681000	select * from fitshead where t_dateobs < 1368600050 or t_dateobs > 1368600985
+8	3.86298075	select * from fitshead where t_dateobs < 1368600050 or t_dateobs > 1368600985
+9	3.89003950	select * from fitshead where t_dateobs < 1368600050 or t_dateobs > 1368600985
+10	3.88092725	select * from fitshead where t_dateobs < 1368600050 or t_dateobs > 1368600985
+Total query Time:3.88296
+----
+Total query Hits:934572

@@ -1,0 +1,15 @@
+0 29.5218 31.9858
+1 29.2978 30.9915
+2 29.3058 30.9484
+3 29.3058 30.9595
+4 29.1658 30.6432
+5 29.3498 30.7979
+6 29.1938 30.6486
+7 29.2618 30.7747
+8 29.4218 30.8829
+9 29.1578 30.5933
+-------
+Total Count:100000000
+Total Hits:19998271
+Avg.CPU Time:29.2982
+/home/lyb/softwares/fastbit-ibis1.3.5/examples/ibis -d /home/lyb/softwares/fastbit-ibis1.3.5/examples/conesearch/ -v -q select dateobs,ra,dec,sr,ma  where dateobs > 1368179652 and dateobs < 1368181975 
