@@ -1,0 +1,13 @@
+1	21.34325500	select * from fitshead where t_dateobs < 1368673117
+2	21.22555625	select * from fitshead where t_dateobs < 1368673117
+3	21.87159975	select * from fitshead where t_dateobs < 1368673117
+4	21.58120950	select * from fitshead where t_dateobs < 1368673117
+5	21.80751425	select * from fitshead where t_dateobs < 1368673117
+6	21.78114000	select * from fitshead where t_dateobs < 1368673117
+7	21.76381500	select * from fitshead where t_dateobs < 1368673117
+8	22.01907775	select * from fitshead where t_dateobs < 1368673117
+9	22.05584350	select * from fitshead where t_dateobs < 1368673117
+10	22.00515000	select * from fitshead where t_dateobs < 1368673117
+Total query Time:21.7454
+----
+Total query Hits:2720749

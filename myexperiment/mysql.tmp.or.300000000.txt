@@ -1,0 +1,3 @@
+Total query Time:0
+----
+Total query Hits:56375261

@@ -1,0 +1,15 @@
+0 100.21 115.572
+1 50.6512 55.9393
+2 50.4472 55.2501
+3 50.7592 54.5214
+4 50.6552 54.3378
+5 51.1072 54.7753
+6 50.6952 54.4035
+7 50.7072 54.5458
+8 50.7432 54.7085
+9 50.5352 54.3567
+-------
+Total Count:300000000
+Total Hits:25724826
+Avg.CPU Time:55.6511
+/home/lyb/softwares/fastbit-ibis1.3.5/examples/ibis -d /home/lyb/softwares/fastbit-ibis1.3.5/examples/conesearch/ -v -q select dateobs,ra,dec,sr,ma  where dateobs < 1368679389

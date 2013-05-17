@@ -294,7 +294,7 @@ fi
 echo ${fastbitexam}/ibis -d ${fastbitexam}/conesearch/ -v -q "select dateobs,ra,dec,sr,ma  where dateobs < $onelevel or dateobs > $twolevel" >> ${outputname}.${totalcount}.txt
 
 fastbitor=$fastavgcputime
-fastbitorhits=$fastbits
+fastbitorhits=$fasthits
 
 ###############################################
 ###Fastbit AND Side
