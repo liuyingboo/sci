@@ -1,6 +1,7 @@
 #!/bin/bash
 
 echo `pwd`
+echo "Run From THIS FILE"
 
 if [ ! "`whoami`" = "root" ]; then
 	echo "Warning: Only root can run this scripts successfully!"
@@ -12,7 +13,6 @@ isProc=0
 NumberToProc=0
 TotalRow=0
 CurProc=0
-#awk '{printf $0}' ./switch.data
 eval $(awk '{printf("TotalRow=%s\n",NR);}' ./switch.data)
 echo Total Rows: $TotalRow
 for(( i=1;i<=$TotalRow;i++));
@@ -66,8 +66,13 @@ echo "Processing Rows:" $NR
 echo "==================="
 mysql -u root -pgsdjsj fits -e "delete from fitshead"
 /home/lyb/myexperiment/massdata -n ${NR}
-mysql -u root -pgsdjsj fits -e "create index index_fits on fitshead(t_dateobs);" #building index
-bash /home/lyb/myexperiment/runmyexperi.sh
+mysql -u root -pgsdjsj fits -e "create index index_fits_dateobs on fitshead(t_dateobs);" #building index
+mysql -u root -pgsdjsj fits -e "create index index_fits_ra on fitshead(t_ra);" #building index
+mysql -u root -pgsdjsj fits -e "create index index_fits_dec on fitshead(t_dec);" #building index
+mysql -u root -pgsdjsj fits -e "create index index_fits_sr on fitshead(t_sr);" #building index
+mysql -u root -pgsdjsj fits -e "create index index_fits_ma on fitshead(t_ma);" #building index
+#can see it by using "show index from fitshead"
+bash /home/lyb/myexperiment/cone.sh
 
 echo "Write Back to File: [$NR]"
 # echo ${CurProc}
